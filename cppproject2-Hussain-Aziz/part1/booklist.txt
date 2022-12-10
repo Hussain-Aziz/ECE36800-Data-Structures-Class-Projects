@@ -1,0 +1,10 @@
+1	Lisey's Story	28.00	10
+2	The March	14.95	10
+3	The Lincoln Lawyer	26.95	10
+4	The Morning Star	17.00	10
+5	Tuesdays with Morrie	6.99	15
+6	The Da Vinci Code	7.99	15
+7	The Rings Book	24.95	12
+8	Following in Lincoln's Footsteps	16.00	8
+9	The Lord of the Rings	35.00	10
+10	The Perfect Storm	14.00	12

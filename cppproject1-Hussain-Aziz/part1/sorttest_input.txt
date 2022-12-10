@@ -1,0 +1,10 @@
+9
+this
+is
+my
+first
+assignment
+in
+data
+structures
+class
